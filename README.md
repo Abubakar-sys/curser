@@ -1,3 +1,2 @@
-# curser
+I am editing the README file. Adding some more details about the project description.# curser
 repo for coursera course
-I am editing the README file. Adding some more details about the project description.
